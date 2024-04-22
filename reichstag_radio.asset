@@ -1,0 +1,756 @@
+music = {
+	name = "_10_das_lied_der_deutschen"
+	file = "_10_das_lied_der_deutschen.ogg"
+	volume = 1
+}
+music = {
+	name = "_11_Ger_National_Anthem_Instrumental"
+	file = "_11_Ger_National_Anthem_Instrumental.ogg"
+	volume = 1
+}
+music = {
+	name = "_21_non_siegerkranz"
+	file = "_21_non_siegerkranz.ogg"
+	volume = 1
+}
+music = {
+	name = "_22_non_Fehrbelliner_Reitermarsch_Heino"
+	file = "_22_non_Fehrbelliner_Reitermarsch_Heino.ogg"
+	volume = 1
+}
+music = {
+	name = "_23_non_fehrbelliner_reitermarsch"
+	file = "_23_non_fehrbelliner_reitermarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "_30_Horst_Wessel_Lied_Die_Fahne_Hoch"
+	file = "_30_Horst_Wessel_Lied_Die_Fahne_Hoch.ogg"
+	volume = 1
+}
+music = {
+	name = "_31_Horst_Wessel_Lied_Wolfnacht"
+	file = "_31_Horst_Wessel_Lied_Wolfnacht.ogg"
+	volume = 1
+}
+music = {
+	name = "_32_HWL_Modern_Instrumental"
+	file = "_32_HWL_Modern_Instrumental.ogg"
+	volume = 1
+}
+music = {
+	name = "_33_HorstWesselLied_MR"
+	file = "_33_HorstWesselLied_MR.ogg"
+	volume = 1
+}
+
+# 트리조네시엔 노래
+music = {
+	name = "_40_TrizonesienSong"
+	file = "_40_TrizonesienSong_트리조네시엔.ogg"
+	volume = 1
+}
+
+music = {
+	name = "_41_communist_ruinen"
+	file = "_41_communist_ruinen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "_42_Auferstanden_Aus_Ruinen_Inst"
+	file = "_42_Auferstanden_Aus_Ruinen_Instrumental__MichaelE.ogg"
+	volume = 1
+}
+music = {
+	name = "_42_communist_geradeaus"
+	file = "_42_communist_geradeaus.ogg"
+	volume = 1
+}
+
+# 독일인의 조국은 무엇인가
+music = {
+	name = "000_Was_ist_des_Deutschen_Vaterland"
+	file = "000_1809_Was_ist_des_Deutschen_Vaterland.ogg"
+	volume = 1
+}
+music = {
+	name = "000_Was_ist_des_Deutschen_Vaterland__Chordes"
+	file = "000_1809_Was_ist_des_Deutschen_Vaterland__Chordes.ogg"
+	volume = 1
+}
+
+# 라인강의 수비
+music = {
+	name = "010_die_wacht_am_rhein"
+	file = "010_1854_die_wacht_am_rhein.ogg"
+	volume = 1
+}
+music = {
+	name = "010_Die_Wacht_am_Rhein_Heino"
+	file = "010_1854_Die_Wacht_am_Rhein_Heino.ogg"
+	volume = 1
+}
+music = {
+	name = "010_Die_Wacht_am_Rhein_instrumental"
+	file = "010_1854_Die_Wacht_am_Rhein_instrumental.ogg"
+	volume = 1
+}
+
+# 일생에 한번
+music = {
+	name = "100_Das_gibts_nur_einmal__roof"
+	file = "100_1931_Das_gibts_nur_einmal__roof.ogg"
+	volume = 1
+}
+music = {
+	name = "100_Das_Gibts_Nur_Einmal__Vienna"
+	file = "100_1931_Das_Gibts_Nur_Einmal__ViennaSalzburgGoodTrip.ogg"
+	volume = 1
+}
+music = {
+	name = "100_Das_gibts_nur_einmal_jvckenwood"
+	file = "100_1931_Das_gibts_nur_einmal_jvckenwood.ogg"
+	volume = 1
+}
+
+# 행복 가득한 하룻밤을 위해
+music = {
+	name = "100_Fur_eine_Nacht_voller_Seligkeit_1"
+	file = "100_1940_Für_eine_Nacht_voller_Seligkeit_1__CaterinaValente.ogg"
+	volume = 1
+}
+music = {
+	name = "100_Fur_eine_Nacht_voller_Seligkeit_2_valkyrie"
+	file = "100_1940_Für_eine_Nacht_voller_Seligkeit_2__officers_club.ogg"
+	volume = 1
+}
+music = {
+	name = "100_Fur_eine_Nacht_voller_Seligkeit_3_inst"
+	file = "100_1940_Für_eine_Nacht_voller_Seligkeit_3_inst.ogg"
+	volume = 1
+}
+
+music = {
+	name = "100_Gelbe_Rose_dort_in_Texas"
+	file = "100_1956_Gelbe_Rose_dort_in_Texas__리스_아시아.ogg"
+	volume = 1
+}
+# 와서 내 손을 잡아줘
+music = {
+	name = "100_Komm_gib_mir_deine_Hand_Remastered"
+	file = "100_1964_Komm_gib_mir_deine_Hand_Remastered.ogg"
+	volume = 1
+}
+music = {
+	name = "100_mit_all_deiner_liebe_Jack_White"
+	file = "100_2002_mit_all_deiner_liebe_Jack_White.ogg"
+	volume = 1
+}
+music = {
+	name = "100_Mein_kleines_Herz__Katharina_Schuttler"
+	file = "100_2013_Mein_kleines_Herz__Katharina_Schüttler.ogg"
+	volume = 1
+}
+
+# 쿠르프팔츠의 사냥꾼
+music = {
+	name = "110_0_Ein_Jager_aus_Kurpfalz__Berliner"
+	file = "110_1763_0_Ein_Jäger_aus_Kurpfalz__Berliner.ogg"
+	volume = 1
+}
+music = {
+	name = "110_1_Der_Jager_Aus_Kurpfalz_vocal__Orchester"
+	file = "110_1763_1_Der_Jäger_Aus_Kurpfalz__Orchester.ogg"
+	volume = 1
+}
+music = {
+	name = "110_2_Ein_Jager_aus_Kurpfalz__Heino"
+	file = "110_1763_2_Ein_Jäger_aus_Kurpfalz__Heino.ogg"
+	volume = 1
+}
+music = {
+	name = "110_3_Der_Jager_aus_Kurpfalz_inst"
+	file = "110_1763_3_Der_Jäger_aus_Kurpfalz_inst.ogg"
+	volume = 1
+}
+
+# 즐거운 여행자
+music = {
+	name = "110_Mein_Vater_war_ein_Wandersmann"
+	file = "110_1847_Mein_Vater_war_ein_Wandersmann.ogg"
+	volume = 1
+}
+music = {
+	name = "110_Mein_Vater_war_ein_Wandersmann__heino"
+	file = "110_1847_Mein_Vater_war_ein_Wandersmann__heino.ogg"
+	volume = 1
+}
+
+music = {
+	name = "110_Markische_Heide_Heino"
+	file = "110_1977_Markische_Heide_Heino.ogg"
+	volume = 1
+}
+
+# 흑갈색은 헤이즐넛
+music = {
+	name = "1800_100_schwarzbraun_ist_die_haselnuss__shout"
+	file = "1800_100_schwarzbraun_ist_die_haselnuss__shout.ogg"
+	volume = 1
+}
+music = {
+	name = "1800_100_Schwarzbraun_ist_die_Haselnuss_DrLudwig"
+	file = "1800_100_Schwarzbraun_ist_die_Haselnuss_DrLudwig.ogg"
+	volume = 1
+}
+music = {
+	name = "1800_101_Schwarzbraun_ist_die_Haselnuss__inst"
+	file = "1800_101_Schwarzbraun_ist_die_Haselnuss__inst.ogg"
+	volume = 1
+}
+
+# 백합 세 송이
+music = {
+	name = "1830_Drei_Lilien_0"
+	file = "1830_Drei_Lilien_0.ogg"
+	volume = 1
+}
+music = {
+	name = "1830_Drei_lilien_1"
+	file = "1830_Drei_lilien_1__DieAltenKameraden.ogg"
+	volume = 1
+}
+music = {
+	name = "1830_Drei_Lilien_2"
+	file = "1830_Drei_Lilien_2__Apocalypse_WorldWar1.ogg"
+	volume = 1
+}
+music = {
+	name = "1830_Drei_Lilien_3_inst"
+	file = "1830_Drei_Lilien_3_inst__GerdHeilkeTrio.ogg"
+	volume = 1
+}
+
+# 동전 한 잎과 은화 한 잎
+music = {
+	name = "1830_Ein_Heller_und_ein_Batzen"
+	file = "1830_Ein_Heller_und_ein_Batzen.ogg"
+	volume = 1
+}
+
+# 오랜 동지들
+music = {
+	name = "1889_Alte_Kameraden_0__DrLudwigsArchive"
+	file = "1889_Alte_Kameraden_0_오랜_동지들__DrLudwigsArchive.ogg"
+	volume = 1
+}
+music = {
+	name = "1889_Alte_Kameraden_1_Heino"
+	file = "1889_Alte_Kameraden_1_Heino.ogg"
+	volume = 1
+}
+music = {
+	name = "1889_Alte_Kameraden_2_Teike_inst"
+	file = "1889_Alte_Kameraden_2_Teike_inst.ogg"
+	volume = 1
+}
+music = {
+	name = "1889_Alte_Kameraden_3_inst_fast__BrassBandRiga"
+	file = "1889_Alte_Kameraden_3_inst_fast__BrassBandRiga.ogg"
+	volume = 1
+}
+
+# 작은 폴란드의 마을에서
+music = {
+	name = "1896_In_einem_Polenstadtchen_0"
+	file = "1896_In_einem_Polenstadtchen_0.ogg"
+	volume = 1
+}
+music = {
+	name = "1896_In_einem_Polenstadtchen_1"
+	file = "1896_In_einem_Polenstadtchen_1.ogg"
+	volume = 1
+}
+
+# 세상에서 가장 강력한 왕
+music = {
+	name = "1915_der_machtigste_konig_im_luftrevier_1"
+	file = "1915_der_machtigste_konig_im_luftrevier_1.ogg"
+	volume = 1
+}
+music = {
+	name = "1915_der_machtigste_konig_im_luftrevier_2"
+	file = "1915_Der_mächtigste_König_im_Luftrevier_2.ogg"
+	volume = 1
+}
+
+# 에리카
+music = {
+	name = "1930_erika"
+	file = "1930_erika.ogg"
+	volume = 1
+}
+music = {
+	name = "1930_Erika_instrumental"
+	file = "1930_Erika_instrumental.ogg"
+	volume = 1
+}
+
+# 군인이 된다는 것은 정말 멋진 일이라네(로즈마리)
+music = {
+	name = "1930_Es_Ist_So_Schon_Soldat_Zu_Sein_0"
+	file = "1930_Es_Ist_So_Schön_Soldat_Zu_Sein_0.ogg"
+	volume = 1
+}
+music = {
+	name = "1930_Es_Ist_So_Schon_Soldat_Zu_Sein_1"
+	file = "1930_Es_ist_so_schön_Soldat_zu_sein_1.ogg"
+	volume = 1
+}
+
+# 전차의 노래 (판처리트)
+music = {
+	name = "1933_panzerlied_0"
+	file = "1933_panzerlied_0_벌지대전투.ogg"
+	volume = 1
+}
+music = {
+	name = "1933_Panzerlied_1_inst"
+	file = "1933_Panzerlied_1_inst.ogg"
+	volume = 1
+}
+music = {
+	name = "1933_Panzerlied_2_Inst"
+	file = "1933_Panzerlied_2_Inst__KurtWiehle.ogg"
+	volume = 1
+}
+music = {
+	name = "1933_Panzerlied_3_inst"
+	file = "1933_Panzerlied_3_inst__tokyo.ogg"
+	volume = 1
+}
+music = {
+	name = "1933_Panzerlied_4_Live"
+	file = "1933_Panzerlied_4_Live__tokyo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "1935_Funkerlied__JulioMiguel"
+	file = "1935_Funkerlied__JulioMiguel.ogg"
+	volume = 1
+}
+music = {
+	name = "1935_Funkerlied__Luftwaffenmusikkorps"
+	file = "1935_Funkerlied__Luftwaffenmusikkorps.ogg"
+	volume = 1
+}
+
+# 서쪽 숲의 노래
+music = {
+	name = "1935_westerwald_0"
+	file = "1935_westerwald_0.ogg"
+	volume = 1
+}
+music = {
+	name = "1935_Westerwald_1__KasernenchorWellersberg"
+	file = "1935_Westerwald_1__KasernenchorWellersberg.ogg"
+	volume = 1
+}
+music = {
+	name = "1935_Westerwald_2_Westerwaldlied_Heino"
+	file = "1935_Westerwald_2_Westerwaldlied_Heino.ogg"
+	volume = 1
+}
+music = {
+	name = "1935_Westerwald_3__WOLFNACHT"
+	file = "1935_Westerwald_3__WOLFNACHT.ogg"
+	volume = 1
+}
+
+music = {
+	name = "1938_Kameraden_auf_See__BlaueJungs"
+	file = "1938_Kameraden_auf_See_독일해군군가__BlaueJungs.ogg"
+	volume = 1
+}
+
+music = {
+	name = "1939_edelweiss"
+	file = "1939_edelweiss_에델바이스_산악부대군가.ogg"
+	volume = 1
+}
+
+music = {
+	name = "1939_englandlied"
+	file = "1939_englandlied__영국정벌가.ogg"
+	volume = 1
+}
+music = {
+	name = "1939_Flieger_empor"
+	file = "1939_Flieger_empor조종사여_날아라_공군가__베스트베를린.ogg"
+	volume = 1
+}
+music = {
+	name = "1940_Fallschirmjager_liedRot_scheint_die_Sonne"
+	file = "1940_Fallschirmjager_liedRot_scheint_die_Sonne.ogg"
+	volume = 1
+}
+
+music = {
+	name = "1950_Wo_alle_Strassen_enden"
+	file = "1950_Wo_alle_Straßen_enden__모든_길이_끝나는_곳에서도.ogg"
+	volume = 1
+}
+
+# 클래식
+music = {
+	name = "Classic_1813_Symphony_No7_A_Major_Op92_II"
+	file = "Classic_1813_Symphony_No7_A_Major_Op92_II_Allegretto.ogg"
+	volume = 1
+}
+music = {
+	name = "Classic_1851_Ride_of_the_Valkyries"
+	file = "Classic_1851_Ride_of_the_Valkyries__리하르트_바그너.ogg"
+	volume = 1
+}
+music = {
+	name = "Classic_1882_JStrauss_II_Fruhlingsstimmen_Op410"
+	file = "Classic_1882_JStrauss_II_Frühlingsstimmen_Op410.ogg"
+	volume = 1
+}
+
+# 오스트리아 클래식
+music = {
+	name = "Classic_Aus_1816_Military_Music_in_D_Major"
+	file = "Classic_Aus_1816_Military_Music_in_D_Major.ogg"
+	volume = 1
+}
+music = {
+	name = "Classic_Aus_1848_JStrauss_RadetzkyMarsch"
+	file = "Classic_Aus_1848_JStrauss_RadetzkyMarsch_Berlin.ogg"
+	volume = 1
+}
+music = {
+	name = "Classic_Aus_1893_FJ_Wagner_Under_the_Double_Eagle"
+	file = "Classic_Aus_1893_FJ_Wagner_Under_the_Double_Eagle.ogg"
+	volume = 1
+}
+music = {
+	name = "Classic_Aus_1906_Die_Regimentskinder_Fucik"
+	file = "Classic_Aus_1906_Die_Regimentskinder_Fučík.ogg"
+	volume = 1
+}
+
+# 행진곡
+music = {
+	name = "March_1760_Regimentsgruss_Marsch"
+	file = "March_1760_Regimentsgruß_프린츠_모리츠_연대_행진.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1809_March_for_Military_Music_in_F_Major"
+	file = "March_1809_Military_Music_in_F_Major_요크셔_행진곡.ogg"
+	volume = 1
+}
+
+music = {
+	name = "March_1814_Walch_Pariser_Einzugsmarsch"
+	file = "March_1814_Walch_Pariser_Einzugsmarsch__Berlin.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1857_helenen"
+	file = "March_1857_helenen_헬레네_행진곡.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1860_fridericus_rex_grenadiermarsch"
+	file = "March_1860_fridericus_rex_grenadiermarsch.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1864_Gruss_an_Kiel"
+	file = "March_1864_Gruß_an_Kiel_킬에_경례를__DasLuft.ogg"
+	volume = 1
+}
+
+music = {
+	name = "March_1866_Koniggratzer_Marsch_0_Soldatenchore"
+	file = "March_1866_Königgrätzer_Marsch_0_Soldatenchöre.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1866_Koniggratzer_Marsch_1_Piefke__Berlin"
+	file = "March_1866_Königgrätzer_Marsch_1_Piefke__Berlin.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1866_Koniggratzer_Marsch_2_Last_Crusade"
+	file = "March_1866_Königgrätzer_Marsch_2_Last_Crusade.ogg"
+	volume = 1
+}
+
+music = {
+	name = "March_1884_Preussens_Gloria_0_Piefke__Berlin"
+	file = "March_1884_Preußens_Gloria_0_Piefke__Berlin.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1884_Preussens_Gloria_1__Berlin"
+	file = "March_1884_Preußens_Gloria_1__Berlin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "March_1904_Berliner_Luft_0"
+	file = "March_1904_Berliner_Luft_0__Heeres.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1904_Berliner_Luft_Marsch_1"
+	file = "March_1904_Berliner_Luft_Marsch_1__Colonia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "March_1912_Fliegermarsch_0"
+	file = "March_1912_Fliegermarsch_0__Heeres.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1912_FliegerMarsch_1"
+	file = "March_1912_FliegerMarsch_1__Bayersoien.ogg"
+	volume = 1
+}
+
+music = {
+	name = "March_1914_Badenweiler_Marsch__BrassEnergy"
+	file = "March_1914_Badenweiler_Marsch__BrassEnergy.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1920_Regimentsgruss__Luft"
+	file = "March_1920_Regimentsgruss__Luft.ogg"
+	volume = 1
+}
+music = {
+	name = "March_1920_Regimentsgruss_Marsch__BrassEnergy"
+	file = "March_1920_Regimentsgruß_Marsch__BrassEnergy.ogg"
+	volume = 1
+}
+
+# 영화
+music = {
+	name = "movie_10_WW_Gathering_Storm"
+	file = "movie_10_WW_Gathering_Storm.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_20_WW_The_Fatherland"
+	file = "movie_20_WW_The_Fatherland.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_30_WW_Night_of_the_Long_Knives"
+	file = "movie_30_WW_Night_of_the_Long_Knives.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_40_WW_Plan_of_Attack"
+	file = "movie_40_WW_Plan_of_Attack.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_50_WW_Blitzkrieg"
+	file = "movie_50_WW_Blitzkrieg.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_60_WW_Uber_Allies"
+	file = "movie_60_WW_Uber_Allies.ogg"
+	volume = 1
+}
+
+music = {
+	name = "movie_Hitler_1_Rise_of_Evil_Score_1"
+	file = "movie_Hitler_1_Rise_of_Evil_Score_1.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_Hitler_2_Rise_of_Evil_Score_2"
+	file = "movie_Hitler_2_Rise_of_Evil_Score_2.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_Hitler_3_Rise_of_Evil_End_title"
+	file = "movie_Hitler_3_Rise_of_Evil_End_title.ogg"
+	volume = 1
+}
+
+music = {
+	name = "movie_The_Blitz_1940_HarryGregsonWilliams"
+	file = "movie_The_Blitz_1940_HarryGregsonWilliams.ogg"
+	volume = 1
+}
+
+music = {
+	name = "movie_valkyrie_01_theyll_remember_you"
+	file = "movie_valkyrie_01_theyll_remember_you.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_02_operation_valkyrie"
+	file = "movie_valkyrie_02_operation_valkyrie.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_03_whats_this_really_all_about"
+	file = "movie_valkyrie_03_whats_this_really_all_about.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_04_bunker_bust"
+	file = "movie_valkyrie_04_bunker_bust.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_05_march_13_attempt"
+	file = "movie_valkyrie_05_march_13_attempt.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_06_midnight_waltz"
+	file = "movie_valkyrie_06_midnight_waltz.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_07_a_place_to_change"
+	file = "movie_valkyrie_07_a_place_to_change.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_08_seconds_lost"
+	file = "movie_valkyrie_08_seconds_lost.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_09_getting_the_signature"
+	file = "movie_valkyrie_09_getting_the_signature.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_11_the_way_it_should_go"
+	file = "movie_valkyrie_11_the_way_it_should_go.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_12_if_i_were_that_man"
+	file = "movie_valkyrie_12_if_i_were_that_man.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_13_im_sorry"
+	file = "movie_valkyrie_13_im_sorry.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_14_important_call"
+	file = "movie_valkyrie_14_important_call.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_15_no_more_indicision"
+	file = "movie_valkyrie_15_no_more_indicision.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_16_olbricht_gives_the_order"
+	file = "movie_valkyrie_16_olbricht_gives_the_order.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_17_operation_terminated"
+	file = "movie_valkyrie_17_operation_terminated.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_valkyrie_18_long_live_sacred_germany"
+	file = "movie_valkyrie_18_long_live_sacred_germany.ogg"
+	volume = 1
+}
+
+music = {
+	name = "movie_Jojos_March"
+	file = "movie_조조래빗_Jojos_March.ogg"
+	volume = 1
+}
+music = {
+	name = "movie_The_Kids_Are_All_Reich"
+	file = "movie_조조래빗_The_Kids_Are_All_Reich.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "TNO_400_Soundtrack_Opening_Theme"
+	file = "TNO_400_Soundtrack_Opening_Theme.ogg"
+	volume = 1
+}
+music = {
+	name = "TNO_401_Burgundian_Lullaby"
+	file = "TNO_401_Burgundian_Lullaby.ogg"
+	volume = 1
+}
+
+music = {
+	name = "TNO_1915_Die_Toten_erwachen_incl__WOLFNACHT"
+	file = "TNO_1915_Die_Toten_erwachen_incl__WOLFNACHT.ogg"
+	volume = 1
+}
+music = {
+	name = "TNO_SS_march__Wolfnacht"
+	file = "TNO_1942_SS_Marschiert_in_Feindesland__Wolfnacht.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wolfenstein_Berlin_Boys_and_Stuttgart_Girls"
+	file = "Wolfenstein_Berlin_Boys_and_Stuttgart_Girls.ogg"
+	volume = 1
+}
+music = {
+	name = "Wolfenstein_Boom_Boom"
+	file = "Wolfenstein_Boom_Boom.ogg"
+	volume = 1
+}
+music = {
+	name = "Wolfenstein_Change_over_day"
+	file = "Wolfenstein_Change_over_day.ogg"
+	volume = 1
+}
+music = {
+	name = "Wolfenstein_Hans_Mein_kleiner_VW"
+	file = "Wolfenstein_Hans_Mein_kleiner_VW.ogg"
+	volume = 1
+}
+music = {
+	name = "Wolfenstein_House_of_the_Rising_Sun"
+	file = "Wolfenstein_House_of_the_Rising_Sun.ogg"
+	volume = 1
+}
+music = {
+	name = "Wolfenstein_Mond_Mond_Ja_Ja"
+	file = "Wolfenstein_Mond_Mond_Ja_Ja.ogg"
+	volume = 1
+}
+music = {
+	name = "Wolfenstein_Tapferer_kleiner_Liebling"
+	file = "Wolfenstein_Tapferer_kleiner_Liebling.ogg"
+	volume = 1
+}
+music = {
+	name = "Wolfenstein_Weltraum_Surfen"
+	file = "Wolfenstein_Weltraum_Surfen.ogg"
+	volume = 1
+}
